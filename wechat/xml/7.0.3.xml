@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="ID_WECHAT_FEATURE_IN_CHATLIST">com.tencent.mm:id/b5q</string>
+    <string name="ID_WECHAT_MESSAGECOUNT_IN_CHATLIST">com.tencent.mm:id/mv</string>
+    <string name="ID_WECHAT_FEATURE_IN_CONVERSATION">com.tencent.mm:id/aq7</string>
+    <string name="ID_WECHAT_CAPTURED_IN_CONVERSATION">com.tencent.mm:id/aq6</string>
+    <string name="ID_WECHAT_BUTTON_IN_POPUPWINDOW">com.tencent.mm:id/cyf</string>
+    <string name="ID_WECHAT_COUNT_IN_DETAILS">com.tencent.mm:id/csy</string>
+
+    <string name="UI_WECHAT_CONVERSATION_ACTIVITY">com.tencent.mm.ui.LauncherUI</string>
+    <string name="UI_WECHAT_RECEIVED_ACTIVITY">com.tencent.mm.plugin.luckymoney.ui.LuckyMoneyNotHookReceiveUI</string>
+    <string name="UI_WECHAT_DETAIL_ACTIVITY">com.tencent.mm.plugin.luckymoney.ui.LuckyMoneyDetailUI</string>
+</map>
