@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="id_feature_in_chatlist">com.tencent.mm:id/azn</string>
+    <string name="id_messagecount_in_chatlist">com.tencent.mm:id/lu</string>
+    <string name="id_feature_in_conversation">com.tencent.mm:id/alx</string>
+    <string name="id_captured_in_conversation">com.tencent.mm:id/alw</string>
+    <string name="id_button_in_popupwindow">com.tencent.mm:id/cnu</string>
+    <string name="id_count_in_details">com.tencent.mm:id/ck_</string>
+    <string name="ui_conversation_activity">com.tencent.mm.ui.LauncherUI</string>
+    <string name="ui_received_activity">com.tencent.mm.plugin.luckymoney.ui.LuckyMoneyReceiveUI</string>
+    <string name="ui_detail_activity">com.tencent.mm.plugin.luckymoney.ui.LuckyMoneyDetailUI</string>
+</map>
