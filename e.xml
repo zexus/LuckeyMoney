@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv info-name="by spark " info-url="https://epg.112114.xyz">
+	<channel id="翡翠台">
+		<display-name lang="zh">翡翠台</display-name>
+	</channel>
+	<programme channel="翡翠台" start="20231115000000 +0800" stop="20231115010000 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115010000 +0800" stop="20231115013000 +0800">
+		<title lang="zh">東張西望[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115013000 +0800" stop="20231115013500 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115013500 +0800" stop="20231115020500 +0800">
+		<title lang="zh">MUSIC BREAK[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115020500 +0800" stop="20231115030500 +0800">
+		<title lang="zh">流行都市[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115030500 +0800" stop="20231115040500 +0800">
+		<title lang="zh">食為奴#8[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115040500 +0800" stop="20231115043500 +0800">
+		<title lang="zh">夜宵磨[粵][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115043500 +0800" stop="20231115050500 +0800">
+		<title lang="zh">夜宵磨[粵][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115050500 +0800" stop="20231115060000 +0800">
+		<title lang="zh">大廚出馬[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115060000 +0800" stop="20231115074000 +0800">
+		<title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115074000 +0800" stop="20231115074500 +0800">
+		<title lang="zh">環球新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115074500 +0800" stop="20231115081000 +0800">
+		<title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115081000 +0800" stop="20231115090000 +0800">
+		<title lang="zh">香港早晨[粵] 及 區選小百科[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115090000 +0800" stop="20231115093000 +0800">
+		<title lang="zh">交易現場[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115093000 +0800" stop="20231115094500 +0800">
+		<title lang="zh">深港滬通[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115094500 +0800" stop="20231115095000 +0800">
+		<title lang="zh">勁歌推介[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115095000 +0800" stop="20231115100000 +0800">
+		<title lang="zh">快樂長門人[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115100000 +0800" stop="20231115103000 +0800">
+		<title lang="zh">餐餐有宋家#21[粵] 及 施政惠民生[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115103000 +0800" stop="20231115113000 +0800">
+		<title lang="zh">倚天屠龍記#42[粵/普]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115113000 +0800" stop="20231115113500 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115113500 +0800" stop="20231115114500 +0800">
+		<title lang="zh">交易現場[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115114500 +0800" stop="20231115124000 +0800">
+		<title lang="zh">團圓#1[粵][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115124000 +0800" stop="20231115124500 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115124500 +0800" stop="20231115125500 +0800">
+		<title lang="zh">交易現場[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115125500 +0800" stop="20231115130000 +0800">
+		<title lang="zh">憑信念‧躍動體壇[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115130000 +0800" stop="20231115132000 +0800">
+		<title lang="zh">午間新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115132000 +0800" stop="20231115143000 +0800">
+		<title lang="zh">流行都市[粵] 及 區選小百科[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115143000 +0800" stop="20231115143500 +0800">
+		<title lang="zh">施政惠民生[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115143500 +0800" stop="20231115144000 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115144000 +0800" stop="20231115144500 +0800">
+		<title lang="zh">交易現場[粵] 及 深港滬通[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115144500 +0800" stop="20231115154500 +0800">
+		<title lang="zh">食為奴#9[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115154500 +0800" stop="20231115161500 +0800">
+		<title lang="zh">KERORO 軍曹[粵/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115161500 +0800" stop="20231115162000 +0800">
+		<title lang="zh">交易現場[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115162000 +0800" stop="20231115165000 +0800">
+		<title lang="zh">櫻桃小丸子[粵/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115165000 +0800" stop="20231115172000 +0800">
+		<title lang="zh">Hands Up[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115172000 +0800" stop="20231115175000 +0800">
+		<title lang="zh">偶像星願7 Third BEAT![粵/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115175000 +0800" stop="20231115180000 +0800">
+		<title lang="zh">財經新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115180000 +0800" stop="20231115183000 +0800">
+		<title lang="zh">榮寶齋[粵] 及 新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115183000 +0800" stop="20231115191500 +0800">
+		<title lang="zh">六點半新聞報道[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115191500 +0800" stop="20231115192500 +0800">
+		<title lang="zh">世界觀[粵] 及 天氣報告[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115192500 +0800" stop="20231115193000 +0800">
+		<title lang="zh">有理說得清[粵] 及 施政惠民生[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115193000 +0800" stop="20231115193500 +0800">
+		<title lang="zh">區選小百科[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115193500 +0800" stop="20231115200000 +0800">
+		<title lang="zh">東張西望[粵] 及 憑信念‧躍動體壇[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115200000 +0800" stop="20231115203000 +0800">
+		<title lang="zh">愛．回家之開心速遞#2134[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115203000 +0800" stop="20231115213000 +0800">
+		<title lang="zh">羅密歐與祝英台#23[粵][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115213000 +0800" stop="20231115223000 +0800">
+		<title lang="zh">叠影狙擊#8[粵][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115223000 +0800" stop="20231115230500 +0800">
+		<title lang="zh">日本18種住法[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115230500 +0800" stop="20231115231500 +0800">
+		<title lang="zh">娛樂頭條[粵] 及 環球新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115231500 +0800" stop="20231115234500 +0800">
+		<title lang="zh">晚間新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115234500 +0800" stop="20231115235000 +0800">
+		<title lang="zh">新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115235000 +0800" stop="20231115235500 +0800">
+		<title lang="zh">天氣報告[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20231115235500 +0800" stop="20231115235900 +0800">
+		<title lang="zh">新紮師兄續集#6[粵]</title>
+	</programme>
+</tv>
